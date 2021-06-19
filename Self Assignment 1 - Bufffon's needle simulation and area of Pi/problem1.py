@@ -35,6 +35,7 @@ for i in range(1,needles+1):
     else:
       plt.plot([x_2,x_1],[y_2, y_1],'g')
 
-plt.show()
+
 print("Pi value:")
 print(needles/hit_count)
+plt.show()
