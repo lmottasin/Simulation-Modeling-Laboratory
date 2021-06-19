@@ -1,7 +1,7 @@
 
 # Simulation & Modeling Laboratory
 - Md. Mottasin Lemon
-Department of Computer Science And Engineering, 
+- Department of Computer Science And Engineering, 
 United International University, Dhaka.
 
 
