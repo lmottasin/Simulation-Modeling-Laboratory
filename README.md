@@ -35,12 +35,12 @@ United International University, Dhaka.
 
 
 ## Online Assignments
-- Assignment 01 - Game of Life
-- Assignment 02 - Random Number Generator
-- Assignment 03 - Serial Chase topic 
+- Online Assignment 01 - Game of Life
+- Online Assignment 02 - Random Number Generator
+- Online Assignment 03 - Serial Chase topic 
 
 ## Self-practice
-- Assignment 1 - Bufffon's needle simulation and area of Pi
+- Self Assignment 1 - Bufffon's needle simulation and area of Pi
 
   
 ## Badges
