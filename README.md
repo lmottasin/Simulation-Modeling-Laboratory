@@ -42,6 +42,9 @@ United International University, Dhaka.
 ## Self-practice
 - Self Assignment 1 - Bufffon's needle simulation and area of Pi
 
+## Previous Timester Questions
+- Previous Trimester Content
+
   
 ## Badges
 
